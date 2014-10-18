@@ -1,0 +1,4 @@
+newStringCalc
+=============
+
+StartFresh
